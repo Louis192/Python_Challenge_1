@@ -3,3 +3,4 @@
 
 def sum_mult_7(n):
     return(sum(x for x in range(n) if x%7==0))
+sum_mult_7(35)
